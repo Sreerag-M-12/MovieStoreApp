@@ -40,7 +40,10 @@ namespace MovieStoreApp
                         AddMovie();
                     break;
                 case 2:
-                    movies.ForEach(movie => Console.WriteLine(movie));
+                    if(movies.Count ==0)
+                        Console.WriteLine("The List is empty");
+                    else
+                        movies.ForEach(movie => Console.WriteLine(movie));
                     break;
                 case 3:
                     Movie findMovie = FindMovieById();
@@ -77,12 +80,12 @@ namespace MovieStoreApp
             int movieId = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Movie Name");
             string movieName = Console.ReadLine();
-          //  Console.WriteLine("Enter Year of Release");
-           // int year = Convert.ToInt32(Console.ReadLine());
-           // Console.WriteLine("Enter Genre");
-           // string genre = Console.ReadLine();
+            Console.WriteLine("Enter Year of Release");
+            int year = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Genre");
+            string genre = Console.ReadLine();
 
-            movies.Add(Movie.CreateNewMovie(movieId, movieName, 2002, "comedy"));
+            movies.Add(Movie.CreateNewMovie(movieId, movieName, year, genre));
         }
 
         static Movie FindMovieById()
