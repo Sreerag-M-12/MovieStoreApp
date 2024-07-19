@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.exe
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.deps.json
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.runtimeconfig.json
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.dll
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.pdb
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.AssemblyInfo.cs
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.dll
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\refint\MovieStoreApp.dll
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.pdb
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.genruntimeconfig.cache
+C:\Users\sreerag.babu\Documents\C# Projects\MovieStoreApp\obj\Debug\net8.0\ref\MovieStoreApp.dll
